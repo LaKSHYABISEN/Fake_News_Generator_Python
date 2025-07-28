@@ -49,5 +49,9 @@ while True:
     
     print("\nThanks for using the fake News Headline Generator. Have a fun day lakshya")
     
+print("\nThank for using the Fake News Headline Generator")    
+    
+    
+    
     
 
